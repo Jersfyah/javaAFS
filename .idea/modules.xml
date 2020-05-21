@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DATSI/SD/SD.iml" filepath="$PROJECT_DIR$/DATSI/SD/SD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaAFS.iml" filepath="$PROJECT_DIR$/.idea/javaAFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DATSI/SD/javaAFS.2020/javaAFS.2020.iml" filepath="$PROJECT_DIR$/DATSI/SD/javaAFS.2020/javaAFS.2020.iml" />
+    </modules>
+  </component>
+</project>
